@@ -4,7 +4,7 @@
 
 ## Approach
 
-I have used two different approaches to play flappy bird. 
+I have used two different approaches to play flappy bird which is built using pygame.
 
 * Using **Advantage Actor Critic (A2C)** which is a model-free, on-policy, reinforcement learning algorithm.
 * And  also using **NeuroEvolution of Augmenting Topologies (NEAT)** which belongs to family of NeuroEvolution algorithms. I have used [neat-python](https://pypi.org/project/neat-python/) library to implement it.
